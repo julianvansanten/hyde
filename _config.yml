@@ -1,6 +1,5 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
 
 # Setup
 title:            Portfolio Julian van Santen
