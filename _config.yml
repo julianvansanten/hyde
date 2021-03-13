@@ -1,26 +1,19 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
 # Setup
-title:            Hyde
+title:            Portfolio Julian van Santen
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'A portfolio page that contains information about Julian and projects he has done.'
+url:              http://julianvansanten.nl
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
+  name:           'Julian van Santen'
+  url:            https://twitter.com/julianvs
 
 # Custom vars
-version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+github:           https://github.com/julianvansanten
+twitter:          https://twitter.com/julianvs
