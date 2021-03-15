@@ -3,7 +3,6 @@ layout: page
 title: About
 ---
 
-
 # About me
 
 I am a Bachelor Technical Computer Science student at the University of Twente. I have been playing around with technology ever since I was a kid and my interests for computers slowly started to grow.
