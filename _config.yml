@@ -3,7 +3,6 @@ markdown:         kramdown
 
 # Setup
 title:            Portfolio Julian van Santen
-tagline:          'A Jekyll theme'
 description:      'A portfolio page that contains information about Julian and projects he has done.'
 url:              http://julianvansanten.nl
 baseurl:          /
